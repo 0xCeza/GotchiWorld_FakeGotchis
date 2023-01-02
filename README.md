@@ -4,19 +4,19 @@
 
 # Step 2: Swap some Link
 (You will need 5 Link token for this)
-1. Head to [https://pegswap.chain.link/](https://pegswap.chain.link/) : swap 5 ERC20 Link to ERC667 Link   ⇒ 2 tx (Allow + Swap)
-    1. You will need 5 Link to start.
+1. Head to https://pegswap.chain.link/: swap 5 ERC20 Link to ERC667 Link (1:1 ratio)
+    You will have 2 transactions, 1 to allow spending your Link then one to swap them at 1:1 ratio
 
 # Step 3: Register your automation
-
 1. ⚠️ Wait for the petting to be ready before registering
-2. Head to [https://automation.chain.link/polygon/new](https://automation.chain.link/polygon/new)
+2. Head to https://automation.chain.link/polygon/new
 3. Check “Custom logic”
 4. Paste this contract address : 
-5. Create the upkeep with 5 000 000 Gas 
-6. Provide your email address to receive notification from chainlink about this upkeep
-7. Enter your token id in the check data as follow adding 0x before. If your token id using 6 numbers, so id 9321 is 0x009321
-    1. To find your Token ID go to [auction.aavegotchi.com](http://auction.aavegotchi.com) to your user profile, open the aavegotchi. ID is on the link
+5. Create the upkeep with 100 000 Gas per gotchis, up to 5 000 000 Gas max if you're over 100 Gotchis.
+6. Provide your email address to receive notification from chainlink about this automation (e.g you're running out of gas fund).
+7. Enter your token id in the check data adding 0x before and using 6 digit. For example, if you own token id 9321 enter 0x009321.
+    To find your Token ID go to https://www.fakegotchis.com/ then to your user profile, open the aavegotchi. ID is on the link
+    ![image](https://user-images.githubusercontent.com/82118439/210253612-8089274e-43e3-40df-bbb2-14e48c601c43.png)
 
 # FAQ
 
