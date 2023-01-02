@@ -1,11 +1,13 @@
 # Step 1: Allow the contract to pet your gotchis
 (This step is not required if you already used petting from gotchi world)
 1. Head to https://www.gotchi.world/petting and click "approve interaction"
+    ![image](https://user-images.githubusercontent.com/82118439/210274928-82410477-2ed8-4871-8007-69d18dfaab72.png)
 
 # Step 2: Swap some Link
 (You will need 5 Link token for this)
 1. Head to https://pegswap.chain.link/: swap 5 ERC20 Link to ERC667 Link (1:1 ratio)
     You will have 2 transactions, 1 to allow spending your Link then one to swap them at 1:1 ratio
+    ![image](https://user-images.githubusercontent.com/82118439/210274951-612f3b42-7fcb-4d7f-ad8c-ded979504dde.png)
 
 # Step 3: Register your automation
 1. ⚠️ Wait for the petting to be ready before registering
