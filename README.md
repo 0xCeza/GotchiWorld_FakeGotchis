@@ -42,3 +42,5 @@
     - No, you need to go back to your upkeep in chainlink's site to stop it and take back your funds.
 - If I get a new gotchi, when will it be pet?
     - The automation pet every 12 hours, so the new gotchi will be synced with the one actually being pet.
+- What if I run into an issue or have questions not in the FAQ?
+    - DM Ceza#3333 on Discord.
