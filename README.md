@@ -16,8 +16,8 @@
 1. ⚠️ Wait for the petting to be ready before registering
 2. Head to https://automation.chain.link/polygon/new
 3. Check “Custom logic”
-4. Use this contract address: 0xc6b62e832ED27fA961a55BCC7028279182630fCC
-    ![image](https://user-images.githubusercontent.com/82118439/210273354-ba2c4cfc-9ec1-4137-acdd-0de8a74065bb.png)
+4. Use this contract address: 0x3aDDA45FE12472d404BA51B39706bA1DdE705148
+    ![image](https://user-images.githubusercontent.com/82118439/210308286-3e05c396-4ebd-459e-8c93-fb8a8e92a60b.png)
 5. Create the upkeep with 100 000 Gas per gotchis, up to 5 000 000 Gas max if you're over 100 Gotchis
 6. Enter your token id in the check data adding 0x before and using 6 digit. For example, if you own token id 9321 enter 0x009321
     To find your Token ID go to https://www.fakegotchis.com/ then to your user profile, open the aavegotchi. ID is on the link
