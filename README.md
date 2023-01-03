@@ -15,7 +15,7 @@
 # Step 3: Register your automation
 1. ⚠️ Wait for the petting to be ready before registering
 2. Head to https://automation.chain.link/polygon/new
-3. Check “Custom logic”
+3. Select “Custom logic”
 4. Use this contract address: 0x95De7026dEB42A7F13dFbb876999B28336f43270
     ![image](https://user-images.githubusercontent.com/82118439/210361346-3da36648-4546-4d9b-9994-8dfd6569834d.png)
 5. Create the upkeep with 100 000 Gas per gotchis, up to 5 000 000 Gas max if you're over 100 Gotchis
