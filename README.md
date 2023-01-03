@@ -20,7 +20,9 @@
     ![image](https://user-images.githubusercontent.com/82118439/210361346-3da36648-4546-4d9b-9994-8dfd6569834d.png)
 5. Create the upkeep with 100 000 Gas per gotchis, up to 5 000 000 Gas max if you're over 100 Gotchis
 6. Enter your token id in the check data adding 0x before and using 6 digit. For example, if you own token id 9321 enter 0x009321
-    To find your Token ID go to https://www.fakegotchis.com/ then to your user profile, open the aavegotchi. ID is on the link
+
+    To find your Token ID go to https://www.fakegotchis.com/ then to your user profile, open the aavegotchi
+    ID is on the link
     ![image](https://user-images.githubusercontent.com/82118439/210253612-8089274e-43e3-40df-bbb2-14e48c601c43.png)
 7. Provide your email address to receive notification from chainlink about this automation (e.g you're running out of gas fund)
     ![image](https://user-images.githubusercontent.com/82118439/210273964-4bbfd2c0-5013-454a-8c52-d89d7ce4bccb.png)
