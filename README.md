@@ -40,3 +40,5 @@
     - Chainlink adds a premium on the transaction cost.
 - If I sell the Fake Gotchi, does it stop my automation?
     - No, you need to go back to your upkeep in chainlink's site to stop it and take back your funds.
+- If I get a new gotchi, when will it be pet?
+    - The automation pet every 12 hours, so the new gotchi will be synced with the one actually being pet.
