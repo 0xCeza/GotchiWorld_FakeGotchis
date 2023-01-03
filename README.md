@@ -2,7 +2,7 @@
 
 # Step 1: Allow the contract to pet your gotchis
 (This step is not required if you already used petting from gotchi world)
-1. Head to [Gotchi World's website](https://www.gotchi.world/petting){:target="_blank"} and click "approve interaction"
+1. Head to https://www.gotchi.world/petting and click "approve interaction"
 
     ![image](https://user-images.githubusercontent.com/82118439/210274928-82410477-2ed8-4871-8007-69d18dfaab72.png)
 
