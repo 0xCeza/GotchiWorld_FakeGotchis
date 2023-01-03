@@ -38,3 +38,5 @@
 - How is the gas paid?
     - You pay for the transaction costs through chainlink’s automation tool.
     - Chainlink adds a premium on the transaction cost.
+- If I sell the Fake Gotchi, does it stop my automation?
+    - No, you need to go back to your upkeep in chainlink's site to stop it and take back your funds.
