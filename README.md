@@ -22,6 +22,7 @@
 6. Enter your token id in the check data adding 0x before and using 6 digit. For example, if you own token id 9321 enter 0x009321
 
     To find your Token ID go to https://www.fakegotchis.com/ then to your user profile, open the aavegotchi
+    
     ID is on the link
     ![image](https://user-images.githubusercontent.com/82118439/210253612-8089274e-43e3-40df-bbb2-14e48c601c43.png)
 7. Provide your email address to receive notification from chainlink about this automation (e.g you're running out of gas fund)
