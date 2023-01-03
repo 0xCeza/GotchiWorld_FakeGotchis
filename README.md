@@ -34,8 +34,8 @@
 - Does it pet lent gotchis?
     - Yes, this automation pet all the gotchis in your wallet (including borrowed gotchis) and the gotchis you lent.
 - How many gotchis can this automation handle?
-    - This automation should handle up to a 200 Gotchis but it can’t be guaranteed.
-    - You can’t increase this by having 2 FakeGotchis
+    - This automation should handle up to a 200 Gotchis but the exact amount can't be guaranteed. It can be higher in the future depending on chainlink.
+    - You can’t increase this amount by having 2 FakeGotchis
 - How is the gas paid?
     - You pay for the transaction costs through chainlink’s automation tool.
     - Chainlink adds a premium on the transaction cost.
