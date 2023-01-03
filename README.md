@@ -25,6 +25,7 @@
 7. Provide your email address to receive notification from chainlink about this automation (e.g you're running out of gas fund)
     ![image](https://user-images.githubusercontent.com/82118439/210273964-4bbfd2c0-5013-454a-8c52-d89d7ce4bccb.png)
 8. Watch the magic operate
+    
     ![image](https://user-images.githubusercontent.com/82118439/210330525-9849e586-8741-4fc8-aed6-e5465920d425.png)
 
 # FAQ
