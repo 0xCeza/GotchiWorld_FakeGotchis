@@ -13,7 +13,7 @@
     ![image](https://user-images.githubusercontent.com/82118439/210274951-612f3b42-7fcb-4d7f-ad8c-ded979504dde.png)
 
 # Step 3: Register your automation
-1. ⚠️ Wait for the petting to be ready before registering
+1. ⚠️ Wait for the petting to be ready before registering (Status of all gotchis should be "Pet Me Master!")
 2. Head to https://automation.chain.link/polygon/new
 3. Select “Custom logic”
 4. Use this contract address: 0x95De7026dEB42A7F13dFbb876999B28336f43270
