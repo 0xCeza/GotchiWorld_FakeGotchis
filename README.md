@@ -50,4 +50,4 @@
 - Why use Chainlink and not another competitor?
     - I want this automation to last as long as possible, I believe Chainlink to be the highest quality product available.
 - What if I run into an issue or have questions not in the FAQ?
-    - DM Ceza#3333 on Discord.
+    - DM ".ceza" on Discord.
