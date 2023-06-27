@@ -51,3 +51,6 @@
     - I want this automation to last as long as possible, I believe Chainlink to be the highest quality product available.
 - What if I run into an issue or have questions not in the FAQ?
     - DM ".ceza" on Discord.
+- Will it work with Gotchichain?
+    - At this point it's too early to know. The main issue is that chainlink probably won't be available on the Gotchichain.
+    - This NFT is meant to be on Polygon only.
